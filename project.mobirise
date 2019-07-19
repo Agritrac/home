@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "page7.html",
+    "currentPage": "home.html",
     "versionFirst": "3.5.1",
-    "versionPublish": "4.5.4",
+    "versionPublish": "4.10.4",
     "name": "Test Equipment",
     "theme": {
       "name": "mobirise3",
@@ -21,16 +21,20 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
-      }
+      },
+      "additionalSetColors": [
+        "#f7fa1c"
+      ]
     },
     "scrollAnimation": "true",
     "favicon": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-    "uniqCompNum": 17,
+    "uniqCompNum": 85,
     "path": "@PROJECT_PATH@",
     "noImageResize": "",
     "google-analytics": "",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "siteFonts": []
   },
   "pages": {
     "home.html": {
@@ -162,17 +166,17 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/daveboom-600x399-80.png",
+              "src": "@PROJECT_PATH@/assets/images/open-gauge-and-tools-600x339.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "ste.html",
+              "link": "page9.html",
               "alt": "",
               "title": "Sprayer Testing Essentials",
               "linkInNewWindow": false
             }
           },
-          "title4": "<span style=\"font-weight: normal;\"><a href=\"ste.html\" class=\"text-black\">Sprayer Testing Essentials</a></span>",
+          "title4": "<span style=\"font-weight: normal;\">Gauge and Test Kit Calibration Services</span>",
           "subtitle4": "",
           "caption4": "",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -213,7 +217,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/savuntitled12-1400x280-81-1400x280.png",
+              "src": "@PROJECT_PATH@/assets/images/savuntitled12-1400x280.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -255,10 +259,9 @@
               "src": "@PROJECT_PATH@/assets/images/gauge-128x85-47.png",
               "width": 128,
               "active": true,
-              "link": "www.cropsprayerparts.com",
+              "link": "",
               "alt": "",
-              "title": "Agritrac",
-              "linkInNewWindow": false
+              "title": "Agritrac"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -331,7 +334,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
@@ -355,7 +358,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;Sprayer Testing Equipment</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"home.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mtg.html\">Master Test Guage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cts.html\">Catchment Tray System<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ntg.html\">Nozzle Test Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ste.html\">Sprayer Testing Essentials<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"nsts.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VIDEOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Master Test Gauge Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Mag Mount Pressure Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Flow Check<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"home.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mtg.html\">Master Test Guage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cts.html\">Catchment Tray System<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ntg.html\">Nozzle Test Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ste.html\">Sprayer Testing Essentials<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"nsts.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VIDEOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Master Test Gauge Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Mag Mount Pressure Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Flow Check<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\" aria-expanded=\"false\">PHOTO GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -366,7 +369,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -541,6 +544,652 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://youtu.be/Om4csbWdF70",
+              "autoplay": "on",
+              "loop": "on",
+              "active": true
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_styles": {
+            "DIV": {
+              "text-align": "right"
+            }
+          },
+          "_anchor": "image1-27"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#ffffff"
+          },
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/steheader-1400x194-89.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "class": "mbr-embedded-video",
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-v"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/p-new-expert-570mm-heavy-duty-tote-tray-600x450-2.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/coveralls-600x399-59.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/marker-600x399-68.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/scottp60-600x399-97.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "<span style=\"color: inherit; line-height: 1.2825; text-align: center;\">Boom tool and sprares box</span><br>",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "This open tool tray is made from soft flexable plastic with a rubbery feel.<br>It is indeal to carry spare boddies, antidrip diaphragms, Boom test gauge along with &nbsp;other tools used for the test.&nbsp;",
+          "title2": "<br>Reuseable coverall<br>",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "This light weight one peice suit is washable and can be used again and again. This is great when testing foward and backwards nozzles, as found on many arable sprayers.",
+          "title3": "<br>Marker pen",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Permanent oil based marker<br>Great for labelling taps and controls<br>Being oil based it with write on any clean dry surface. Steel, Plastic even fibreglass",
+          "title4": "<br>Breathing resporator<br>",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Half mask for use if you have to enter the tank to replace a pipe of seal. Not suitable for fibreglass, please contact us for details on this type of repair.&nbsp;",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "H4": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px"
+            },
+            "SPAN": {
+              "text-align": "right"
+            }
+          },
+          "_anchor": "features3-w"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/scottp2-600x399-79.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/chemglove-600x399-44.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cylinder-600x399-79.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/stickers-600x399-40.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Spare filter for face mask",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Replacment P2 cartrage",
+          "title2": "Nitrile gloves",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Tough nitrile gloves .<br>Essential kit when working on pumps&nbsp;<br>or other repairs&nbsp;",
+          "title3": "Plastic 2 litre cylinder",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "High quality cylinder used for testing nozzle outputs. This cylinder fetures embossed graduations, unlike cheaper one that are printed. &nbsp;",
+          "title4": "Sticker kits",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "We offer a range of pre printed sticker.<br>A large A2 sheet of popular markings as found on controls hoppers and taps.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-x"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": "2",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/stopwatch-600x399-66.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/organbox-600x399-2.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/untitled-600x600-67.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "<br><br><br><span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">Basic easy it use stopwatches</span><br>",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Simple stopwatch, So simple even a child could use it!<br>These stong and simple watches are used in school due to there simplicity.<br>None of the usual split lap, date or other \"crap\" just&nbsp;<br>Stop &nbsp; Clear &nbsp; Go<br>Ideal for cold hards",
+          "title2": "<br><br><br>Parts box&nbsp;",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "If you are just starting out we can offer this rugged tool case loaded with parts.<br>anti diaphragms for a large range of sprayers (95%)<br>Nozzle filters, O rings for suction and pressure filters.<br>A selection of nozzles&nbsp;<br>We can tailor these boxes to your needs or we can supply our standard box that coverer most makes and models&nbsp;",
+          "title3": "Full face browguard",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Full face visor with adjustable head band.<br>High quallity as used by many chemist lab.<br>Replacment visors can purchased separately",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-y"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cobra-600x600-57.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cobra-large-600x600-99.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/tiger-grip-600x600-69.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/pressure-gauge-600x450-24.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "The best tool for sprayers&nbsp;",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "High quality Knipex water pump pliers.<br>One hand press button adjustment. Plastic coated handles with slip guards for extra safety. Has 'no-nip' feature which prevents handles locking together and damaging users' hands. Hold pipes upto 70mm. Ideal for undoing filter nuts and hose tail nuts. Not to be confused with cheaper pliers &nbsp;",
+          "title2": "The big brother<br><br><span style=\"font-weight: normal;\">Known as \"big reds\" in our workshops, these are the big brother to the 300mm these 400mm have a massive </span><i>90mm</i><span style=\"font-weight: normal;\"> grip range.</span><br><span style=\"font-weight: normal;\">Ideal for adjusting seized actuating rods</span><br><span style=\"font-weight: normal;\">These can grip anything and are much better than a set of stilsons.&nbsp;</span>",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "",
+          "title3": "<span style=\"color: inherit; line-height: 1.2825;\">disposable Nitrile&nbsp;</span><br>",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Raised textured surface for superior grip<br>7-mil thickness Superior Grip<br>Powder-free and Latex-free<br>Hi-Vis Orange color easily&nbsp;<br>These gloves are the strongest on the market. So strong you can pull them upto your elbows! You can even take them off for lunch and put the same pair back on after your butty!",
+          "title4": "<br><br><br><br><br>",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "H4": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "features3-z"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-0",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#504a3d",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#332f27"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#474236!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#504a3d"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#504a3d",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "css": "'Raleway', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "#c0a375"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/agritrac-logo-353x128-26.png",
+              "height": 128,
+              "alt": "",
+              "link": "http://www.cropsprayerparts.com/",
+              "title": "Agritrac",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;Sprayer Testing Equipment</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"home.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mtg.html\">Master Test Guage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cts.html\">Catchment Tray System<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ntg.html\">Nozzle Test Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ste.html\">Sprayer Testing Essentials<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"nsts.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VIDEOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Master Test Gauge Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Mag Mount Pressure Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Flow Check<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\" aria-expanded=\"false\">PHOTO GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
           "_name": "image2",
           "_anchor": "image2-0",
           "_params": {
@@ -552,12 +1201,11 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled3-1400x280-18.png",
+              "src": "@PROJECT_PATH@/assets/images/savuntitled12-1400x280-82-1400x280.png",
               "width": 1400,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
@@ -595,7 +1243,7 @@
               "src": "@PROJECT_PATH@/assets/images/gauge-128x85-47.png",
               "width": 128,
               "active": true,
-              "link": "www.cropsprayerparts.com",
+              "link": "",
               "alt": "",
               "title": "Agritrac",
               "linkInNewWindow": false
@@ -609,114 +1257,6 @@
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
           "text3": "<p><strong>Links</strong><br>\n<a href=\"www.cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"http://www.cropsprayerparts.com\" class=\"text-white\">Agritrac</a><br><br></p>"
-        },
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-0",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#504a3d",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2016 Mobirise."
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            },
-            ".navbar-toggler": {
-              "color": "#ffff00"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffff00"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffff00",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-family": "'Raleway', sans-serif"
-            },
-            ".link": {
-              "font-size": "1rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "#c0a375"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#332f27"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#474236!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#504a3d"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffff00",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "#c0a375"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_name": "menu",
-          "_anchor": "menu-0",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
-            "bgColor": "#504a3d",
-            "fontSize": "1",
-            "fontName": {
-              "name": "Raleway",
-              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "css": "'Raleway', sans-serif"
-            },
-            "fontColor": "#ffff00",
-            "fontHoverColor": "#c0a375"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/agritrac-logo-353x128-26.png",
-              "height": 128,
-              "alt": "",
-              "link": "http://www.cropsprayerparts.com/",
-              "title": "Agritrac",
-              "linkInNewWindow": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;Sprayer Testing Equipment</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"home.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mtg.html\">Master Test Guage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cts.html\">Catchment Tray System<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ntg.html\">Nozzle Test Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ste.html\">Sprayer Testing Essentials<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"nsts.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VIDEOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Master Test Gauge Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Mag Mount Pressure Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Flow Check<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -727,7 +1267,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -902,6 +1442,539 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://youtu.be/Ng2jBvZVMv0",
+              "autoplay": "on",
+              "loop": "on",
+              "active": true
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-29"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#ffffff"
+          },
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/steheader-1400x194-89.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "class": "mbr-embedded-video",
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-10"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/p-new-expert-570mm-heavy-duty-tote-tray-600x450-2.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/coveralls-600x399-59.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/marker-600x399-68.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/scottp60-600x399-97.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "<span style=\"color: inherit; line-height: 1.2825; text-align: center;\">Boom tool and sprares box</span><br>",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "This open tool tray is made from soft flexable plastic with a rubbery feel.<br>It is indeal to carry spare boddies, antidrip diaphragms, Boom test gauge along with &nbsp;other tools used for the test.&nbsp;",
+          "title2": "<br>Reuseable coverall<br>",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "This light weight one peice suit is washable and can be used again and again. This is great when testing foward and backwards nozzles, as found on many arable sprayers.",
+          "title3": "<br>Marker pen",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Permanent oil based marker<br>Great for labelling taps and controls<br>Being oil based it with write on any clean dry surface. Steel, Plastic even fibreglass",
+          "title4": "<br>Breathing resporator<br>",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Half mask for use if you have to enter the tank to replace a pipe of seal. Not suitable for fibreglass, please contact us for details on this type of repair.&nbsp;",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "H4": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px"
+            },
+            "SPAN": {
+              "text-align": "right"
+            }
+          },
+          "_anchor": "features3-11"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/scottp2-600x399-79.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/chemglove-600x399-44.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cylinder-600x399-79.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/stickers-600x399-40.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Spare filter for face mask",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Replacment P2 cartrage",
+          "title2": "Nitrile gloves",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Tough nitrile gloves .<br>Essential kit when working on pumps&nbsp;<br>or other repairs&nbsp;",
+          "title3": "Plastic 2 litre cylinder",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "High quality cylinder used for testing nozzle outputs. This cylinder fetures embossed graduations, unlike cheaper one that are printed. &nbsp;",
+          "title4": "Sticker kits",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "We offer a range of pre printed sticker.<br>A large A2 sheet of popular markings as found on controls hoppers and taps.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-12"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": "2",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/stopwatch-600x399-66.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/organbox-600x399-2.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/untitled-600x600-67.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "<br><br><br><span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">Basic easy it use stopwatches</span><br>",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Simple stopwatch, So simple even a child could use it!<br>These stong and simple watches are used in school due to there simplicity.<br>None of the usual split lap, date or other \"crap\" just&nbsp;<br>Stop &nbsp; Clear &nbsp; Go<br>Ideal for cold hards",
+          "title2": "<br><br><br>Parts box&nbsp;",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "If you are just starting out we can offer this rugged tool case loaded with parts.<br>anti diaphragms for a large range of sprayers (95%)<br>Nozzle filters, O rings for suction and pressure filters.<br>A selection of nozzles&nbsp;<br>We can tailor these boxes to your needs or we can supply our standard box that coverer most makes and models&nbsp;",
+          "title3": "Full face browguard",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Full face visor with adjustable head band.<br>High quallity as used by many chemist lab.<br>Replacment visors can purchased separately",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-13"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cobra-600x600-57.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cobra-large-600x600-99.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/tiger-grip-600x600-69.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/pressure-gauge-600x450-24.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "The best tool for sprayers&nbsp;",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "High quality Knipex water pump pliers.<br>One hand press button adjustment. Plastic coated handles with slip guards for extra safety. Has 'no-nip' feature which prevents handles locking together and damaging users' hands. Hold pipes upto 70mm. Ideal for undoing filter nuts and hose tail nuts. Not to be confused with cheaper pliers &nbsp;",
+          "title2": "The big brother<br><br><span style=\"font-weight: normal;\">Known as \"big reds\" in our workshops, these are the big brother to the 300mm these 400mm have a massive </span><i>90mm</i><span style=\"font-weight: normal;\"> grip range.</span><br><span style=\"font-weight: normal;\">Ideal for adjusting seized actuating rods</span><br><span style=\"font-weight: normal;\">These can grip anything and are much better than a set of stilsons.&nbsp;</span>",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "",
+          "title3": "<span style=\"color: inherit; line-height: 1.2825;\">disposable Nitrile&nbsp;</span><br>",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Raised textured surface for superior grip<br>7-mil thickness Superior Grip<br>Powder-free and Latex-free<br>Hi-Vis Orange color easily&nbsp;<br>These gloves are the strongest on the market. So strong you can pull them upto your elbows! You can even take them off for lunch and put the same pair back on after your butty!",
+          "title4": "<br><br><br><br><br>",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "H4": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "features3-14"
+        },
+        {
           "_name": "image2",
           "_anchor": "image2-0",
           "_params": {
@@ -913,12 +1986,11 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled3-1400x280-18.png",
+              "src": "@PROJECT_PATH@/assets/images/savuntitled12-1400x280-83-1400x280.png",
               "width": 1400,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
@@ -956,7 +2028,7 @@
               "src": "@PROJECT_PATH@/assets/images/gauge-128x85-47.png",
               "width": 128,
               "active": true,
-              "link": "www.cropsprayerparts.com",
+              "link": "",
               "alt": "",
               "title": "Agritrac",
               "linkInNewWindow": false
@@ -999,13 +2071,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#ffff00"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffff00"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffff00",
+              "color": "#ffffff",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-family": "'Raleway', sans-serif"
             },
@@ -1028,7 +2100,7 @@
               "background": "#504a3d"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffff00",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1049,7 +2121,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#504a3d",
             "fontSize": "1",
             "fontName": {
@@ -1057,7 +2129,7 @@
               "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "css": "'Raleway', sans-serif"
             },
-            "fontColor": "#ffff00",
+            "fontColor": "#ffffff",
             "fontHoverColor": "#c0a375"
           },
           "logo": {
@@ -1077,7 +2149,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;Sprayer Testing Equipment</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"home.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mtg.html\">Master Test Guage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cts.html\">Catchment Tray System<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ntg.html\">Nozzle Test Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ste.html\">Sprayer Testing Essentials<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"nsts.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VIDEOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Master Test Gauge Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Mag Mount Pressure Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Flow Check<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"home.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mtg.html\">Master Test Guage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cts.html\">Catchment Tray System<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ntg.html\">Nozzle Test Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ste.html\">Sprayer Testing Essentials<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"nsts.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VIDEOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Master Test Gauge Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Mag Mount Pressure Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Flow Check<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\" aria-expanded=\"false\">PHOTO GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -1088,7 +2160,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1260,229 +2332,29 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
-          "_name": "image2",
-          "_anchor": "image2-0",
           "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "2",
-            "bgColor": "#fff"
+            "showText": false
           },
           "media": {
             "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled3-1400x280-18.png",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
             },
             "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+              "src": "https://youtu.be/4oRZ3nOr0xM",
+              "autoplay": "on",
+              "loop": "on",
+              "active": true
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-28"
         },
         {
-          "_name": "contacts1",
-          "_styles": {
-            "STRONG": {
-              "color": "#ffff00"
-            },
-            "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "contacts1-0",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#504a3d",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/gauge-128x85-47.png",
-              "width": 128,
-              "active": true,
-              "link": "www.cropsprayerparts.com",
-              "alt": "",
-              "title": "Agritrac",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>Links</strong><br>\n<a href=\"www.cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"http://www.cropsprayerparts.com\" class=\"text-white\">Agritrac</a><br><br></p>"
-        },
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-0",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#504a3d",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2016 Mobirise."
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            },
-            ".navbar-toggler": {
-              "color": "#ffff00"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffff00"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffff00",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-family": "'Raleway', sans-serif"
-            },
-            ".link": {
-              "font-size": "1rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "#c0a375"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#332f27"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#474236!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#504a3d"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffff00",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "#c0a375"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_name": "menu",
-          "_anchor": "menu-0",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
-            "bgColor": "#504a3d",
-            "fontSize": "1",
-            "fontName": {
-              "name": "Raleway",
-              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "css": "'Raleway', sans-serif"
-            },
-            "fontColor": "#ffff00",
-            "fontHoverColor": "#c0a375"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/agritrac-logo-353x128-26.png",
-              "height": 128,
-              "alt": "",
-              "link": "http://www.cropsprayerparts.com/",
-              "title": "Agritrac",
-              "linkInNewWindow": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;Sprayer Testing Equipment</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"home.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mtg.html\">Master Test Guage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cts.html\">Catchment Tray System<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ntg.html\">Nozzle Test Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ste.html\">Sprayer Testing Essentials<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"nsts.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VIDEOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Master Test Gauge Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Mag Mount Pressure Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Flow Check<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        }
-      ]
-    },
-    "ste.html": {
-      "settings": {
-        "title": "Sprayer Testing Essentials",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 4
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-0",
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButton": false,
-            "paddingTop": "3",
-            "paddingBottom": "5",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/20160817-095154-2000x400-65.png",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0.1"
-          },
-          "title": "ARTICLE HEADER",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_name": "video2",
-          "_anchor": "video2-0",
           "_params": {
             "showText": false,
             "paddingTop": "0",
@@ -1504,21 +2376,14 @@
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-15"
         },
         {
-          "_name": "features3",
-          "_styles": {
-            "H4": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "16px"
-            },
-            "SPAN": {
-              "text-align": "right"
-            }
-          },
-          "_anchor": "features3-0",
           "_params": {
             "showImages": true,
             "showTitles": true,
@@ -1553,10 +2418,6 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "<span style=\"color: inherit; line-height: 1.2825; text-align: center;\">Boom tool and sprares box</span><br>",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "This open tool tray is made from soft flexable plastic with a rubbery feel.<br>It is indeal to carry spare boddies, antidrip diaphragms, Boom test gauge along with &nbsp;other tools used for the test.&nbsp;",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/coveralls-600x399-59.png",
@@ -1569,10 +2430,6 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "<br>Reuseable coverall<br>",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "This light weight one peice suit is washable and can be used again and again. This is great when testing foward and backwards nozzles, as found on many arable sprayers.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/marker-600x399-68.png",
@@ -1585,10 +2442,6 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "<br>Marker pen",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Permanent oil based marker<br>Great for labelling taps and controls<br>Being oil based it with write on any clean dry surface. Steel, Plastic even fibreglass",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/scottp60-600x399-97.png",
@@ -1601,10 +2454,6 @@
               "linkInNewWindow": false
             }
           },
-          "title4": "<br>Breathing resporator<br>",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Half mask for use if you have to enter the tank to replace a pipe of seal. Not suitable for fibreglass, please contact us for details on this type of repair.&nbsp;",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -1613,10 +2462,6 @@
               "active": true
             }
           },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
@@ -1625,14 +2470,47 @@
               "active": true
             }
           },
+          "title1": "<span style=\"color: inherit; line-height: 1.2825; text-align: center;\">Boom tool and sprares box</span><br>",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "This open tool tray is made from soft flexable plastic with a rubbery feel.<br>It is indeal to carry spare boddies, antidrip diaphragms, Boom test gauge along with &nbsp;other tools used for the test.&nbsp;",
+          "title2": "<br>Reuseable coverall<br>",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "This light weight one peice suit is washable and can be used again and again. This is great when testing foward and backwards nozzles, as found on many arable sprayers.",
+          "title3": "<br>Marker pen",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Permanent oil based marker<br>Great for labelling taps and controls<br>Being oil based it with write on any clean dry surface. Steel, Plastic even fibreglass",
+          "title4": "<br>Breathing resporator<br>",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Half mask for use if you have to enter the tank to replace a pipe of seal. Not suitable for fibreglass, please contact us for details on this type of repair.&nbsp;",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "H4": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px"
+            },
+            "SPAN": {
+              "text-align": "right"
+            }
+          },
+          "_anchor": "features3-16"
         },
         {
-          "_name": "features3",
-          "_anchor": "features3-1",
           "_params": {
             "showImages": true,
             "showTitles": true,
@@ -1667,10 +2545,6 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "Spare filter for face mask",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Replacment P2 cartrage",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/chemglove-600x399-44.png",
@@ -1683,10 +2557,6 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Nitrile gloves",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Tough nitrile gloves .<br>Essential kit when working on pumps&nbsp;<br>or other repairs&nbsp;",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/cylinder-600x399-79.png",
@@ -1699,10 +2569,6 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Plastic 2 litre cylinder",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "High quality cylinder used for testing nozzle outputs. This cylinder fetures embossed graduations, unlike cheaper one that are printed. &nbsp;",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/stickers-600x399-40.png",
@@ -1715,10 +2581,6 @@
               "linkInNewWindow": false
             }
           },
-          "title4": "Sticker kits",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "We offer a range of pre printed sticker.<br>A large A2 sheet of popular markings as found on controls hoppers and taps.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -1727,10 +2589,6 @@
               "active": true
             }
           },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
@@ -1739,14 +2597,37 @@
               "active": true
             }
           },
+          "title1": "Spare filter for face mask",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Replacment P2 cartrage",
+          "title2": "Nitrile gloves",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Tough nitrile gloves .<br>Essential kit when working on pumps&nbsp;<br>or other repairs&nbsp;",
+          "title3": "Plastic 2 litre cylinder",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "High quality cylinder used for testing nozzle outputs. This cylinder fetures embossed graduations, unlike cheaper one that are printed. &nbsp;",
+          "title4": "Sticker kits",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "We offer a range of pre printed sticker.<br>A large A2 sheet of popular markings as found on controls hoppers and taps.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-17"
         },
         {
-          "_name": "features3",
-          "_anchor": "features3-2",
           "_params": {
             "showImages": true,
             "showTitles": true,
@@ -1781,10 +2662,6 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "<br><br><br><span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">Basic easy it use stopwatches</span><br>",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Simple stopwatch, So simple even a child could use it!<br>These stong and simple watches are used in school due to there simplicity.<br>None of the usual split lap, date or other \"crap\" just&nbsp;<br>Stop &nbsp; Clear &nbsp; Go<br>Ideal for cold hards",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/organbox-600x399-2.png",
@@ -1797,10 +2674,6 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "<br><br><br>Parts box&nbsp;",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "If you are just starting out we can offer this rugged tool case loaded with parts.<br>anti diaphragms for a large range of sprayers (95%)<br>Nozzle filters, O rings for suction and pressure filters.<br>A selection of nozzles&nbsp;<br>We can tailor these boxes to your needs or we can supply our standard box that coverer most makes and models&nbsp;",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/untitled-600x600-67.png",
@@ -1813,10 +2686,6 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Full face browguard",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Full face visor with adjustable head band.<br>High quallity as used by many chemist lab.<br>Replacment visors can purchased separately",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
@@ -1825,10 +2694,6 @@
               "active": true
             }
           },
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -1837,10 +2702,6 @@
               "active": true
             }
           },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
@@ -1849,24 +2710,37 @@
               "active": true
             }
           },
+          "title1": "<br><br><br><span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">Basic easy it use stopwatches</span><br>",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Simple stopwatch, So simple even a child could use it!<br>These stong and simple watches are used in school due to there simplicity.<br>None of the usual split lap, date or other \"crap\" just&nbsp;<br>Stop &nbsp; Clear &nbsp; Go<br>Ideal for cold hards",
+          "title2": "<br><br><br>Parts box&nbsp;",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "If you are just starting out we can offer this rugged tool case loaded with parts.<br>anti diaphragms for a large range of sprayers (95%)<br>Nozzle filters, O rings for suction and pressure filters.<br>A selection of nozzles&nbsp;<br>We can tailor these boxes to your needs or we can supply our standard box that coverer most makes and models&nbsp;",
+          "title3": "Full face browguard",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Full face visor with adjustable head band.<br>High quallity as used by many chemist lab.<br>Replacment visors can purchased separately",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "features3",
-          "_styles": {
-            "H4": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "16px"
-            }
-          },
-          "_anchor": "features3-2",
+          "_anchor": "features3-18"
+        },
+        {
           "_params": {
             "showImages": true,
             "showTitles": true,
@@ -1901,10 +2775,6 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "The best tool for sprayers&nbsp;",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "High quality Knipex water pump pliers.<br>One hand press button adjustment. Plastic coated handles with slip guards for extra safety. Has 'no-nip' feature which prevents handles locking together and damaging users' hands. Hold pipes upto 70mm. Ideal for undoing filter nuts and hose tail nuts. Not to be confused with cheaper pliers &nbsp;",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/cobra-large-600x600-99.jpg",
@@ -1917,10 +2787,6 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "The big brother<br><br><span style=\"font-weight: normal;\">Known as \"big reds\" in our workshops, these are the big brother to the 300mm these 400mm have a massive </span><i>90mm</i><span style=\"font-weight: normal;\"> grip range.</span><br><span style=\"font-weight: normal;\">Ideal for adjusting seized actuating rods</span><br><span style=\"font-weight: normal;\">These can grip anything and are much better than a set of stilsons.&nbsp;</span>",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/tiger-grip-600x600-69.jpg",
@@ -1933,10 +2799,6 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "<span style=\"color: inherit; line-height: 1.2825;\">disposable Nitrile&nbsp;</span><br>",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Raised textured surface for superior grip<br>7-mil thickness Superior Grip<br>Powder-free and Latex-free<br>Hi-Vis Orange color easily&nbsp;<br>These gloves are the strongest on the market. So strong you can pull them upto your elbows! You can even take them off for lunch and put the same pair back on after your butty!",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/pressure-gauge-600x450-24.jpg",
@@ -1949,10 +2811,6 @@
               "linkInNewWindow": false
             }
           },
-          "title4": "<br><br><br><br><br>",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -1961,10 +2819,6 @@
               "active": true
             }
           },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
@@ -1973,10 +2827,42 @@
               "active": true
             }
           },
+          "title1": "The best tool for sprayers&nbsp;",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "High quality Knipex water pump pliers.<br>One hand press button adjustment. Plastic coated handles with slip guards for extra safety. Has 'no-nip' feature which prevents handles locking together and damaging users' hands. Hold pipes upto 70mm. Ideal for undoing filter nuts and hose tail nuts. Not to be confused with cheaper pliers &nbsp;",
+          "title2": "The big brother<br><br><span style=\"font-weight: normal;\">Known as \"big reds\" in our workshops, these are the big brother to the 300mm these 400mm have a massive </span><i>90mm</i><span style=\"font-weight: normal;\"> grip range.</span><br><span style=\"font-weight: normal;\">Ideal for adjusting seized actuating rods</span><br><span style=\"font-weight: normal;\">These can grip anything and are much better than a set of stilsons.&nbsp;</span>",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "",
+          "title3": "<span style=\"color: inherit; line-height: 1.2825;\">disposable Nitrile&nbsp;</span><br>",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Raised textured surface for superior grip<br>7-mil thickness Superior Grip<br>Powder-free and Latex-free<br>Hi-Vis Orange color easily&nbsp;<br>These gloves are the strongest on the market. So strong you can pull them upto your elbows! You can even take them off for lunch and put the same pair back on after your butty!",
+          "title4": "<br><br><br><br><br>",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "H4": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "features3-19"
         },
         {
           "_name": "image2",
@@ -1990,12 +2876,11 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled3-1400x280-18.png",
+              "src": "@PROJECT_PATH@/assets/images/savuntitled12-1400x280-84-1400x280.png",
               "width": 1400,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
@@ -2033,7 +2918,7 @@
               "src": "@PROJECT_PATH@/assets/images/gauge-128x85-47.png",
               "width": 128,
               "active": true,
-              "link": "www.cropsprayerparts.com",
+              "link": "",
               "alt": "",
               "title": "Agritrac",
               "linkInNewWindow": false
@@ -2076,13 +2961,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#ffff00"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffff00"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffff00",
+              "color": "#ffffff",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-family": "'Raleway', sans-serif"
             },
@@ -2105,7 +2990,7 @@
               "background": "#504a3d"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffff00",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -2126,7 +3011,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#504a3d",
             "fontSize": "1",
             "fontName": {
@@ -2134,7 +3019,7 @@
               "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "css": "'Raleway', sans-serif"
             },
-            "fontColor": "#ffff00",
+            "fontColor": "#ffffff",
             "fontHoverColor": "#c0a375"
           },
           "logo": {
@@ -2154,7 +3039,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;Sprayer Testing Equipment</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"home.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mtg.html\">Master Test Guage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cts.html\">Catchment Tray System<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ntg.html\">Nozzle Test Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ste.html\">Sprayer Testing Essentials<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"nsts.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VIDEOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Master Test Gauge Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Mag Mount Pressure Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Flow Check<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"home.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mtg.html\">Master Test Guage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cts.html\">Catchment Tray System<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ntg.html\">Nozzle Test Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ste.html\">Sprayer Testing Essentials<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"nsts.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VIDEOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Master Test Gauge Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Mag Mount Pressure Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Flow Check<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\" aria-expanded=\"false\">PHOTO GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -2162,7 +3047,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "Master Test Gauge Video",
-        "order": 5
+        "order": 7
       },
       "components": [
         {
@@ -2181,12 +3066,17 @@
               "active": true
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text": "",
           "_tags": [
             "Theme"
           ],
           "_name": "image1",
-          "_anchor": "image1-a"
+          "_anchor": "image1-a",
+          "_styles": {
+            "DIV": {
+              "text-align": "right"
+            }
+          }
         },
         {
           "_name": "contacts1",
@@ -2217,7 +3107,7 @@
               "src": "@PROJECT_PATH@/assets/images/gauge-128x85-47.png",
               "width": 128,
               "active": true,
-              "link": "www.cropsprayerparts.com",
+              "link": "",
               "alt": "",
               "title": "Agritrac",
               "linkInNewWindow": false
@@ -2261,13 +3151,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#ffff00"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffff00"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffff00",
+              "color": "#ffffff",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-family": "'Raleway', sans-serif"
             },
@@ -2290,7 +3180,7 @@
               "background": "#504a3d"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffff00",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -2310,7 +3200,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#504a3d",
             "fontSize": "1",
             "fontName": {
@@ -2318,7 +3208,7 @@
               "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "css": "'Raleway', sans-serif"
             },
-            "fontColor": "#ffff00",
+            "fontColor": "#ffffff",
             "fontHoverColor": "#c0a375"
           },
           "logo": {
@@ -2338,7 +3228,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;Sprayer Testing Equipment</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"home.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mtg.html\">Master Test Guage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cts.html\">Catchment Tray System<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ntg.html\">Nozzle Test Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ste.html\">Sprayer Testing Essentials<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"nsts.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VIDEOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Master Test Gauge Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Mag Mount Pressure Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Flow Check<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"home.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mtg.html\">Master Test Guage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cts.html\">Catchment Tray System<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ntg.html\">Nozzle Test Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ste.html\">Sprayer Testing Essentials<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"nsts.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VIDEOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Master Test Gauge Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Mag Mount Pressure Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Flow Check<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\" aria-expanded=\"false\">PHOTO GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-6"
         }
       ]
@@ -2347,7 +3237,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Mag Mount Pressure Gauge Video",
-        "order": 6
+        "order": 8
       },
       "components": [
         {
@@ -2366,7 +3256,7 @@
               "active": true
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text": "",
           "_tags": [
             "Theme"
           ],
@@ -2402,7 +3292,7 @@
               "src": "@PROJECT_PATH@/assets/images/gauge-128x85-47.png",
               "width": 128,
               "active": true,
-              "link": "www.cropsprayerparts.com",
+              "link": "",
               "alt": "",
               "title": "Agritrac",
               "linkInNewWindow": false
@@ -2478,7 +3368,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
@@ -2502,7 +3392,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;Sprayer Testing Equipment</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"home.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mtg.html\">Master Test Guage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cts.html\">Catchment Tray System<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ntg.html\">Nozzle Test Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ste.html\">Sprayer Testing Essentials<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"nsts.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VIDEOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Master Test Gauge Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Mag Mount Pressure Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Flow Check<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"home.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mtg.html\">Master Test Guage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cts.html\">Catchment Tray System<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ntg.html\">Nozzle Test Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ste.html\">Sprayer Testing Essentials<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"nsts.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VIDEOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Master Test Gauge Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Mag Mount Pressure Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Flow Check<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\" aria-expanded=\"false\">PHOTO GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-c"
         }
       ]
@@ -2511,7 +3401,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Flow Check",
-        "order": 7
+        "order": 9
       },
       "components": [
         {
@@ -2530,12 +3420,17 @@
               "active": true
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text": "",
           "_tags": [
             "Theme"
           ],
           "_name": "image1",
-          "_anchor": "image1-g"
+          "_anchor": "image1-g",
+          "_customHTML": "<section class=\"mbr-section mbr-section-nopadding mbr-figure--caption-outside-bottom mbr-after-navbar\" data-rv-view=\"336\">\n    <div class=\"mbr-figure\">\n        <div><iframe class=\"mbr-embedded-video\" src=\"https://www.youtube.com/embed/Ng2jBvZVMv0?rel=0&amp;amp;showinfo=0&amp;autoplay=1&amp;loop=1&amp;playlist=Ng2jBvZVMv0\" width=\"1280\" height=\"720\" frameborder=\"0\" allowfullscreen=\"\"></iframe></div>\n        <div class=\"mbr-figure-caption mbr-figure-caption-over\">\n            <div class=\"container mbr-editable-content\" code-editable-id=\"75\"></div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
         },
         {
           "_name": "contacts1",
@@ -2566,7 +3461,7 @@
               "src": "@PROJECT_PATH@/assets/images/gauge-128x85-47.png",
               "width": 128,
               "active": true,
-              "link": "www.cropsprayerparts.com",
+              "link": "",
               "alt": "",
               "title": "Agritrac",
               "linkInNewWindow": false
@@ -2642,7 +3537,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
@@ -2666,8 +3561,1194 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;Sprayer Testing Equipment</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"home.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mtg.html\">Master Test Guage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cts.html\">Catchment Tray System<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ntg.html\">Nozzle Test Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ste.html\">Sprayer Testing Essentials<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"nsts.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VIDEOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Master Test Gauge Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Mag Mount Pressure Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Flow Check<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"home.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mtg.html\">Master Test Guage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cts.html\">Catchment Tray System<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ntg.html\">Nozzle Test Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ste.html\">Sprayer Testing Essentials<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"nsts.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VIDEOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Master Test Gauge Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Mag Mount Pressure Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Flow Check<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\" aria-expanded=\"false\">PHOTO GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-f"
+        }
+      ]
+    },
+    "page9.html": {
+      "settings": {
+        "title": "Gauge and Test Kit Calibration Service",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 5
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Gauge and Test Kit Calibration Services",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-20",
+          "_styles": {
+            "H3": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/three-boxes-on-desk-1400x1400.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Gauge Testing Service",
+          "text": "At our test centre we can use our specialised equipment and our expertise to make sure your kit is stays in the best working order. All NSTS test equipment must be tested every twelve months, we offer testing with a fully traceable certificate to the NSTS showing the accuracy of your equipment.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1x"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/open-gauge-and-tools-1400x791.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Gauge Calibration Service",
+          "text": "If your kit or gauges are not up to the NSTS specification then we have the ability to re-calibrate gauges and kits. Our team has been trained by a UKAS qualified engineer. We also have high spec equipment meaning we can work with any gauge or set-up. We have professional tools for removing the face, the needle and tools for adjusting the linkage. The photo to the left shows a specialist kit for removing and replacing the parts, and the gauge has been opened to show its inner workings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1y"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/multiple-blues-1400x1400.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Spares and Replacement Service",
+          "text": "Aswell as our own test boxes that we design and assemble in-house we offer spares for most kits or the ability to offer our rigourously tested test boxes that have everything you need to test sprayers.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-22"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#ffffff"
+          },
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/steheader-1400x194-89.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "class": "mbr-embedded-video",
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-1o"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/p-new-expert-570mm-heavy-duty-tote-tray-600x450-2.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/coveralls-600x399-59.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/marker-600x399-68.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/scottp60-600x399-97.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "<span style=\"color: inherit; line-height: 1.2825; text-align: center;\">Boom tool and sprares box</span><br>",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "This open tool tray is made from soft flexable plastic with a rubbery feel.<br>It is indeal to carry spare boddies, antidrip diaphragms, Boom test gauge along with &nbsp;other tools used for the test.&nbsp;",
+          "title2": "<br>Reuseable coverall<br>",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "This light weight one peice suit is washable and can be used again and again. This is great when testing foward and backwards nozzles, as found on many arable sprayers.",
+          "title3": "<br>Marker pen",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Permanent oil based marker<br>Great for labelling taps and controls<br>Being oil based it with write on any clean dry surface. Steel, Plastic even fibreglass",
+          "title4": "<br>Breathing resporator<br>",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Half mask for use if you have to enter the tank to replace a pipe of seal. Not suitable for fibreglass, please contact us for details on this type of repair.&nbsp;",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "H4": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px"
+            },
+            "SPAN": {
+              "text-align": "right"
+            }
+          },
+          "_anchor": "features3-1p"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/scottp2-600x399-79.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/chemglove-600x399-44.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cylinder-600x399-79.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/stickers-600x399-40.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Spare filter for face mask",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Replacment P2 cartrage",
+          "title2": "Nitrile gloves",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Tough nitrile gloves .<br>Essential kit when working on pumps&nbsp;<br>or other repairs&nbsp;",
+          "title3": "Plastic 2 litre cylinder",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "High quality cylinder used for testing nozzle outputs. This cylinder fetures embossed graduations, unlike cheaper one that are printed. &nbsp;",
+          "title4": "Sticker kits",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "We offer a range of pre printed sticker.<br>A large A2 sheet of popular markings as found on controls hoppers and taps.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-1q"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": "2",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/stopwatch-600x399-66.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/organbox-600x399-2.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/untitled-600x600-67.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "<br><br><br><span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">Basic easy it use stopwatches</span><br>",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Simple stopwatch, So simple even a child could use it!<br>These stong and simple watches are used in school due to there simplicity.<br>None of the usual split lap, date or other \"crap\" just&nbsp;<br>Stop &nbsp; Clear &nbsp; Go<br>Ideal for cold hards",
+          "title2": "<br><br><br>Parts box&nbsp;",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "If you are just starting out we can offer this rugged tool case loaded with parts.<br>anti diaphragms for a large range of sprayers (95%)<br>Nozzle filters, O rings for suction and pressure filters.<br>A selection of nozzles&nbsp;<br>We can tailor these boxes to your needs or we can supply our standard box that coverer most makes and models&nbsp;",
+          "title3": "Full face browguard",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Full face visor with adjustable head band.<br>High quallity as used by many chemist lab.<br>Replacment visors can purchased separately",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-1r"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cobra-600x600-57.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cobra-large-600x600-99.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/tiger-grip-600x600-69.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/pressure-gauge-600x450-24.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "The best tool for sprayers&nbsp;",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "High quality Knipex water pump pliers.<br>One hand press button adjustment. Plastic coated handles with slip guards for extra safety. Has 'no-nip' feature which prevents handles locking together and damaging users' hands. Hold pipes upto 70mm. Ideal for undoing filter nuts and hose tail nuts. Not to be confused with cheaper pliers &nbsp;",
+          "title2": "The big brother<br><br><span style=\"font-weight: normal;\">Known as \"big reds\" in our workshops, these are the big brother to the 300mm these 400mm have a massive </span><i>90mm</i><span style=\"font-weight: normal;\"> grip range.</span><br><span style=\"font-weight: normal;\">Ideal for adjusting seized actuating rods</span><br><span style=\"font-weight: normal;\">These can grip anything and are much better than a set of stilsons.&nbsp;</span>",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "",
+          "title3": "<span style=\"color: inherit; line-height: 1.2825;\">disposable Nitrile&nbsp;</span><br>",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Raised textured surface for superior grip<br>7-mil thickness Superior Grip<br>Powder-free and Latex-free<br>Hi-Vis Orange color easily&nbsp;<br>These gloves are the strongest on the market. So strong you can pull them upto your elbows! You can even take them off for lunch and put the same pair back on after your butty!",
+          "title4": "<br><br><br><br><br>",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "H4": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "features3-1s"
+        },
+        {
+          "_name": "image2",
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/savuntitled12-1400x280-84-1400x280.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_anchor": "image2-1t"
+        },
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffff00"
+            },
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#504a3d",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/gauge-128x85-47.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "Agritrac",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"www.cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"http://www.cropsprayerparts.com\" class=\"text-white\">Agritrac</a><br><br></p>",
+          "_anchor": "contacts1-1u"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#504a3d",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2016 Mobirise.",
+          "_anchor": "footer1-1v"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#332f27"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#474236!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#504a3d"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#504a3d",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "css": "'Raleway', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "#c0a375"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/agritrac-logo-353x128-26.png",
+              "height": 128,
+              "alt": "",
+              "link": "http://www.cropsprayerparts.com/",
+              "title": "Agritrac",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;Sprayer Testing Equipment</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"home.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mtg.html\">Master Test Guage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cts.html\">Catchment Tray System<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ntg.html\">Nozzle Test Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ste.html\">Sprayer Testing Essentials<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"nsts.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VIDEOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Master Test Gauge Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Mag Mount Pressure Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Flow Check<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\" aria-expanded=\"false\">PHOTO GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "_anchor": "menu-1w"
+        }
+      ]
+    },
+    "page10.html": {
+      "settings": {
+        "meta_descr": "Site Generator Description",
+        "title": "Photo Gallery",
+        "order": 6
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-lead": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": 5,
+            "paddingTop": "5",
+            "paddingBottom": "2",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/20160816-075406-2000x1125-3-2000x1125.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20160817-095151-2000x1125-23-2000x1125.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2019-03-20-at-11.52.32-1-1600x900.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2019-03-20-at-11.19.53-1600x777.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2019-03-20-at-11.34.16-1600x900.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2019-03-20-at-11.20.20-1600x777.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2019-03-20-at-11.53.18-1600x900.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2019-03-20-at-11.08.02-1600x1200.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider2",
+          "_anchor": "slider2-26"
+        },
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffff00"
+            },
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#504a3d",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/gauge-128x85-47.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "Agritrac",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"www.cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"http://www.cropsprayerparts.com\" class=\"text-white\">Agritrac</a><br><br></p>",
+          "_anchor": "contacts1-23"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#504a3d",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2016 Mobirise.",
+          "_anchor": "footer1-24"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#332f27"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#474236!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#504a3d"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#504a3d",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "css": "'Raleway', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "#c0a375"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/agritrac-logo-353x128-26.png",
+              "height": 128,
+              "alt": "",
+              "link": "http://www.cropsprayerparts.com/",
+              "title": "Agritrac",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;Sprayer Testing Equipment</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"home.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mtg.html\">Master Test Guage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cts.html\">Catchment Tray System<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ntg.html\">Nozzle Test Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ste.html\">Sprayer Testing Essentials<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"nsts.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VIDEOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Master Test Gauge Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Mag Mount Pressure Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Flow Check<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\" aria-expanded=\"false\">PHOTO GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "_anchor": "menu-25"
         }
       ]
     }
